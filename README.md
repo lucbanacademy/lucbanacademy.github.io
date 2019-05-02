@@ -1,2 +1,2 @@
-# lucbanacademy.github.io
-Lucban Academy Website
+# Lucban Academy Website
+
